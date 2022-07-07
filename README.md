@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caromoree
-- 👀 I’m interested in economics and i'm mostly work in R to do my research
+- 👀 I’m interested in economics and i mostly work in R to do my research
 - 🌱 I’m currently working on my thesis project about inequalities
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me caro.moree@gmail.com
